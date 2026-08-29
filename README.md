@@ -301,11 +301,11 @@ curl -X DELETE "https://<api-id>.execute-api.ap-south-1.amazonaws.com/employeeap
 
 ## 👤 Author & Maintainer
 
-**Kunal** — *Cloud & DevOps Engineer*
+**Kunal Jadhav** — *Cloud & DevOps Engineer*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devkunaljadhav/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devkunaljadhav)
 
-> 💡 *Feel free to connect on LinkedIn or check out more cloud and DevOps projects!*
+> 💡 *Feel free to connect on [LinkedIn](https://www.linkedin.com/in/devkunaljadhav/) or check out my [GitHub](https://github.com/devkunaljadhav) for more Cloud & DevOps projects!*
+
 
